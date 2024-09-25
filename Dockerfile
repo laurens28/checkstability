@@ -1,1 +1,1 @@
-FROM laurens28/opalinux:v6
+FROM laurens28/opalinux:v1
